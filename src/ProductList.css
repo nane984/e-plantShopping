@@ -46,7 +46,13 @@ body {
     width: 100vw;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
+
+.category{
+    margin-top: 10px;
+}
+
 .product-list {
     display: flex;
     flex-wrap: wrap;
